@@ -24,11 +24,6 @@ nav a {
 	margin-right: 151px;
 }
 
-.now {
-	box-shadow: 10px 5px 10px 0 black;
-}
-
-
 nav a:hover {
 	box-shadow: 10px 5px 10px 0 black;
 	transition: 2s;
